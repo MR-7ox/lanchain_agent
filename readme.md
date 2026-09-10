@@ -14,3 +14,11 @@ unit 1:
 	using structured prompt in system messages as key:value 
 	using pydantic BaseModel which automatically validates the outputs 
  
+unit 2 :
+	
+	we learn to use tools from lanchain.tools - tool packages 
+	we create tools using @tool decorator 
+	we use tool by giveing the list of tools while creating agent 
+	example the check prime tool we created can be used to to check 2 no's at the same time 
+	we see tool call using .tool_calls
+
