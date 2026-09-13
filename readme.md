@@ -22,3 +22,9 @@ unit 2 :
 	example the check prime tool we created can be used to to check 2 no's at the same time 
 	we see tool call using .tool_calls
 
+unit 2:
+		web_search 
+		here we tried creating a web_search tool using tavily since tavile / firecrawl 
+		and you the web_search to get query answered
+		
+
