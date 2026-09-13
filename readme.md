@@ -26,5 +26,6 @@ unit 2:
 		web_search 
 		here we tried creating a web_search tool using tavily since tavile / firecrawl 
 		and you the web_search to get query answered
-		
+		url_scraper
+		we used firecrawl to scrape a url like geek for geek one and use it to return the details 		
 
